@@ -6,7 +6,7 @@ on:
     branches: [ main ]
     paths:
       - 'cloud_function/materialize-llm/**'
-      - '.github/workflows/deploy-materialize-master-llm.yml'
+      - '.github/workflows/deploy-materialize-llm.yml'
 
 permissions:
   contents: read
